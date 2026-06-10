@@ -33,7 +33,7 @@ Rina's 收集有趣实用的网站的仓库 持续收集中
 |娱乐|https://www.16personalities.com |很火的MBTI 16人格测试含解析 100道题目了解你的16人格|
 |娱乐|https://wcu.edu.pl |獲取你的 Wild Chicken University (WCU) 录取通知与文凭證书|
 |工具|https://science.nasa.gov/mission/hubble/multimedia/what-did-hubble-see-on-your-birthday// |很火的NASA你的生日星空图|
-|娱乐|https://music.163.com/st/webplayer |网易云音乐PC Web版 不是远古版的网页端（虽然没有试过可否用|
+|娱乐|https://music.163.com/st/webplayer |网易云音乐PC Web版 不是远古版的网页端 须手机端扫码 二维码是在远古版的网页当中完成登录后就会是新版客户端的页面|
 |娱乐|https://265.com |Google曾的 谷歌265 上网导航|
 |娱乐|https://sbti.unun.dev |很火SBTI测试|
 |教育|https://m.guwendao.net |古诗文网|
