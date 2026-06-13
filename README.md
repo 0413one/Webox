@@ -4,6 +4,7 @@ Rina's 收集有趣实用的网站的仓库 持续收集中
 
 |分类|网站|简介|
 |:-:|:-:|:-|
+|教育|https://linux.vbird.org |鳥哥的網站！有 Linux 學習、伺服器學習，還有環工學習喔！|
 |资源|https://z-lib.sk |Zlib 全世界最大的在线图书馆 搜索 并在线阅读或下载阅读喜的图书 搭配Apple Books 那些太香了 (有能力去看官方教程添加Telegram机器人更方便)|
 |工具|https://ol.woobx.cn |一个木函 在线小工具|
 |网站|https://dnschecker.org |Dnschecker 查网站DNS|
